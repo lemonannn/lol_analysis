@@ -1,14 +1,13 @@
-# My Project Title
+# LOL Analysis
 
-by Suraj Rampure (rampure@ucsd.edu)
+by Jack Kruger (jakrug@umich.edu)
 
-***Note***: If you choose a repo name and title as uninspired as the ones here, I will be quite sad.
 
 ---
 
 ## Introduction
 
-In this project, we studied the effectiveness of spice challenges in building team morale.
+The dataset I'm using compiles League of Legends data from 2025. The question I decdied to answer in part 1 is Which role carries the team the most?
 
 ---
 
